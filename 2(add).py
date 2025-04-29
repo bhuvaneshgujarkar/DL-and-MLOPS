@@ -25,3 +25,7 @@ def apply_delete_table(delete_table):
     print("\n")
 apply_add_table(add_table)
 apply_delete_table(delete_table)
+
+
+# py -3.10 -m pip install spacy
+# py -3.10 -m spacy download en_core_web_sm
